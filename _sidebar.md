@@ -64,12 +64,12 @@
     - 4.5 10.版本变迁 [1]
       - 4.5.1 RocketMQ 5.0 [1]
         - [4.5.1.1 RocketMQ 5.0: 存储计算分离新思路](/04.RocketMQ/10.版本变迁/RocketMQ%205.0/2022-RocketMQ%205.0:%20存储计算分离新思路.md)
-  - [5 05.Pulsar [3]](/05.Pulsar/README.md)
-    - [5.1 Pulsar 设计概览](/05.Pulsar/Pulsar%20设计概览.md)
-    - [5.2 消息生产与消费 [1]](/05.Pulsar/消息生产与消费/README.md)
-      - [5.2.1 消息消费模型](/05.Pulsar/消息生产与消费/消息消费模型.md)
+  - [5 05~Pulsar [3]](/05~Pulsar/README.md)
+    - [5.1 Pulsar 设计概览](/05~Pulsar/Pulsar%20设计概览.md)
+    - [5.2 消息生产与消费 [1]](/05~Pulsar/消息生产与消费/README.md)
+      - [5.2.1 消息消费模型](/05~Pulsar/消息生产与消费/消息消费模型.md)
     - 5.3 集群部署 [1]
-      - [5.3.1 部署配置](/05.Pulsar/集群部署/部署配置.md)
+      - [5.3.1 部署配置](/05~Pulsar/集群部署/部署配置.md)
   - [6 06.ActiveMQ [1]](/06.ActiveMQ/README.md)
     - [6.1 架构设计](/06.ActiveMQ/架构设计.md)
   - 7 10.实践案例 [2]
