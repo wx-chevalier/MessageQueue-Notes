@@ -2,7 +2,7 @@
 
 Apache RocketMQ 是一款典型的分布式架构下的中间件产品，使用异步通信方式和发布订阅的消息传输模型。通信方式和传输模型的具体说明，请参见下文通信方式介绍和消息传输模型介绍。Apache RocketMQ 产品具备异步通信的优势，系统拓扑简单、上下游耦合较弱，主要应用于异步解耦，流量削峰填谷等场景。
 
-![领域模型](https://assets.ng-tech.icu/item/20230409175705.png)
+![领域模型](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230409175705.png)
 
 如上图所示，Apache RocketMQ 中消息的生命周期主要分为消息生产、消息存储、消息消费这三部分。生产者生产消息并发送至 Apache RocketMQ 服务端，消息被存储在服务端的主题中，消费者通过订阅主题消费消息。
 
